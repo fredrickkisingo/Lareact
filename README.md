@@ -3,11 +3,11 @@
 This is a sophisticated blogging web application built for the sole purpose of a user being able to login, post and also perform CRUD functionalities to a certain post.
 
 ## Technologies used 
-Backend
-1.Laravel
+Backend:
+Laravel
 
-Frontend
-2.React
+Frontend:
+React
 
-Http client
-3.Axios
+Http client:
+Axios
